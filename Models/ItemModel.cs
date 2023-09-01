@@ -3,6 +3,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace ASP.NET_CORE_Course.Models
 {
+
     public class ItemModel
     {
         [Key]
